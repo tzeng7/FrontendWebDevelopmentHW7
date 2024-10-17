@@ -47,6 +47,18 @@
 			quantity: 5,
 			pricePerItem: 5.50
 
+		},
+		{
+			name: "Chips",
+			quantity: 3,
+			pricePerItem: 6
+
+		},
+		{
+			name: "Water Bottles",
+			quantity: 40,
+			pricePerItem: 1
+
 		}
 		];
 
